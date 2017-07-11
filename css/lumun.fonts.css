@@ -1,0 +1,56 @@
+@font-face {
+    font-family:'wf_segoe-ui_normal';
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/normal/latest.eot');
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/normal/latest.eot?#iefix') format('embedded-opentype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/normal/latest.woff') format('woff'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/normal/latest.ttf') format('truetype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/normal/latest.svg#web') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
+
+@font-face {
+    font-family:'wf_segoe-ui_light';
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.eot');
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.eot?#iefix') format('embedded-opentype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.woff') format('woff'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.ttf') format('truetype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/light/latest.svg#web') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
+
+@font-face {
+    font-family:'wf_segoe-ui_semibold';
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/semibold/latest.eot');
+    src:url('//i.s-microsoft.com/fonts/segoe-ui/west-european/semibold/latest.eot?#iefix') format('embedded-opentype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/semibold/latest.woff') format('woff'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/semibold/latest.ttf') format('truetype'),
+        url('//i.s-microsoft.com/fonts/segoe-ui/west-european/semibold/latest.svg#web') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
+
+@font-face {
+    font-family:'Gotham';
+    src:url('gothamlight-webfont.eot');
+    src:url('gothamlight-webfont.eot?#iefix') format('embedded-opentype'),
+        url('gothamlight-webfont.woff') format('woff'),
+        url('gothamlight-webfont.woff2') format('woff2'),
+        url('gothamlight-webfont.ttf') format('truetype'),
+        url('gothamlight-webfont.svg#web') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
+/*
+@font-face {
+    font-family:'wf_segoe-ui_bold';
+    src:url('segoe-ui-west-european-bold.eot');
+    src:url('segoe-ui-west-european-bold.eot?#iefix') format('embedded-opentype'),
+        url('segoe-ui-west-european-bold.woff') format('woff'),
+        url('segoe-ui-west-european-bold.ttf') format('truetype'),
+        url('segoe-ui-west-european-bold.svg#web') format('svg');
+    font-weight:normal;
+    font-style:normal
+}
+*/

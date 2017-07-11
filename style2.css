@@ -1,0 +1,97 @@
+#container
+{
+    display: block;
+    border: solid;
+    margin-left:  auto;
+    margin-right: auto;
+	width: 80%;
+	height: 50px;
+	position: relative;
+	background-color: #113604;
+	border: 2px outset;
+	border-radius: 25px;
+	border-color: #113604;
+}
+
+#bod {
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+#nav
+{
+	border: outset;
+	margin-left: 10px;
+}
+
+#text-logo
+{
+	float: left;
+	margin-top: 15px;
+	color: #5A5B5E;
+	font-size: 25px;
+	font-family: "Verdana",Sans-serif;
+	font-weight: bold;
+}
+
+#tabs
+{
+	float: right;
+	position: relative;
+	margin-top: 0px;
+	margin-right: 10px;
+	color: #7B8079;
+}
+
+li
+{
+	display: inline;
+}
+
+#images
+{
+	margin-left:  auto;
+    margin-right: auto;
+}
+
+#page-content
+{
+	float: left;
+}
+
+#news
+{
+	float: right;
+}
+
+#copyright
+{
+	text-align: centre;
+	color: #bbbbbb;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.banner {
+position: relative;
+overflow: auto;
+padding-bottom: 100px;
+}
+.banner li {
+list-style: none;
+}
+.banner ul li {
+float: left;
+}
+.dots{
+text-align: center;
+}
+.dots li{
+display: inline;
+padding: 0 20px;
+cursor: pointer;
+}
+.active{
+text-decoration: underline;
+}

@@ -1,0 +1,46 @@
+/* Author: Usama Muneeb */
+/* CSS Animations */
+
+@-webkit-keyframes mymove { 0% {opacity: 0;} 100% {opacity: 1;} }
+@keyframes mymove { 0% {opacity: 0;} 100% {opacity: 1;} }
+
+@-webkit-keyframes taganim { 0% {opacity: 0.5;} 100% {opacity: 1;} }
+@keyframes taganim { 0% {opacity: 0.5;} 100% {opacity: 1;} }
+
+@-webkit-keyframes carousel { 0% {left: -125.5px;} 20% {left: 50px} 100% {left: -1725.5px;} }
+@keyframes carousel { 0% {left: -125.5px;} 20% {left: 50px} 100% {left: -1725.5px;} }
+
+.nametagcontainer {
+    position: relative;
+    width: 100%;
+}
+
+.imagent {
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.imageUpper {
+    opacity: 1
+}
+.imageLower {
+    opacity: 1
+}
+#redfilter {
+    position:relative;
+    z-index:1;
+    color:#fff;
+    background:darkred;
+}
+
+
+#redfilter:before {
+    content:"";
+    position:absolute;
+    z-index:-2;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
